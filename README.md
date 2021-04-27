@@ -15,13 +15,9 @@ Apart from programming, I love mountains ⛰️, bird watching 🐦, and fungi �
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olhanotolga&custom_title=Most%20used%20languages&layout=compact&theme=nord) [:link:](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-
 <!---
 Currently working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olhanotolga&repo=js-calculator&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olhanotolga&repo=rent-a-cat&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 <!---
