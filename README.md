@@ -10,9 +10,11 @@ Apart from programming, I love mountains ⛰️, bird watching 🐦, and fungi �
 
 ### Numbers & graphs
 
-![Olha's GitHub stats](https://github-readme-stats.vercel.app/api?username=olhanotolga&custom_title=Olha's%20GitHub%20stats&show_icons=true&hide=stars,issues&theme=nord)
+![Olha's GitHub stats](https://github-readme-stats.vercel.app/api?username=olhanotolga&custom_title=Olha's%20GitHub%20stats&show_icons=true&hide=stars,issues&theme=nord) [:link:](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olhanotolga&custom_title=Most%20used%20languages&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olhanotolga&custom_title=Most%20used%20languages&layout=compact&theme=nord) [:link:](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
