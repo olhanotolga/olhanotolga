@@ -1,4 +1,4 @@
-### I'm Olha, a web developer based in Berlin.
+## I'm Olha, a web developer based in Berlin.
 
 Before I landed here, I used to write content for tech companies and translate films.
 
@@ -7,3 +7,21 @@ I'm currently learning web development with MERN stack, Python, and falling in l
 🔭 My aspiration is to create performant, accessible, and well-designed applications which minimize the information overload and help people make informed decisions.
 
 Apart from programming, I love mountains ⛰️, bird watching 🐦, and fungi 🍄.
+
+### Numbers & graphs
+
+![Olha's GitHub stats](https://github-readme-stats.vercel.app/api?username=olhanotolga&custom_title=Olha's%20GitHub%20stats&show_icons=true&hide=stars,issues&theme=nord)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olhanotolga&custom_title=Most%20used%20languages&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<!---
+Currently working on:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olhanotolga&repo=js-calculator&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<!---
+Projects I'm proud of:
+-->
