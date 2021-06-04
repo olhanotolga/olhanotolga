@@ -1,12 +1,16 @@
-## I'm Olha, a web developer based in Berlin.
+## I'm Olha, a developer based in Berlin.
 
 Before I landed here, I used to write content for tech companies and translate films.
 
-I'm currently learning web development with MERN stack, Python, and falling in love with design systems.
+I'm currently learning web development with MERN stack, Python, and falling in love with design systems. Trying out React Native & TypeScript.
 
 🔭 My aspiration is to create performant, accessible, and well-designed applications which minimize the information overload and help people make informed decisions.
 
 Apart from programming, I love mountains ⛰️, bird watching 🐦, and fungi 🍄.
+
+### Current project
+
+📖 **librix**, a React Native book swap app — the final project at DCI, collaboration with 5 other amazing students!
 
 ### Numbers & graphs
 
