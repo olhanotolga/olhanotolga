@@ -10,7 +10,7 @@ Apart from programming, I love mountains ⛰️, bird watching 🐦, and fungi �
 
 ### Current project
 
-📖 **librix**, a React Native book swap app — the final project at DCI, collaboration with 5 other amazing students! (link to follow)
+📖 **librix**, a React Native book swap app — the final project at DCI, collaboration with 5 other amazing students! (link coming soon)
 
 ### Numbers & graphs
 
