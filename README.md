@@ -1,4 +1,4 @@
-## I'm Olha, a developer based in Berlin.
+## I'm Olha, a software engineer based in Berlin.
 
 Before I landed here, I used to write content for tech companies and translate films.
 
