@@ -8,9 +8,10 @@ Before moving to Berlin, I used to live in Kyiv, Ukraine 🇺🇦.
 
 Apart from programming, I love mountains ⛰️, bird watching :eagle:, fungi 🍄, and occasional crafts :scissors: :sewing_needle:.
 
-### My latest position
+### My latest positions
 
-Software Engineer at Yara International.
+2021-2025: Software Engineer at Yara.
+2026: Software Engineer at Optibus.
 
 ### Numbers & graphs
 
